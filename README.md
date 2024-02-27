@@ -9,8 +9,11 @@ You can install MyLibrary using pip:
 ```bash
 pip install kaviproject==0.3
 
-## Usage
 
+## Usage
+```python
+
+```
 ```python
 import mylibrary from leanth
 def print_hi():
