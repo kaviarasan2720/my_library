@@ -1,10 +1,6 @@
 Metadata-Version: 2.1
 Name: kaviproject
-<<<<<<< HEAD
-Version: 0.3
-=======
-Version: 0.2
->>>>>>> 85ed6ad9e4e1e722773393ef71562da9ca6d024d
+Version: 0.4
 Summary: A description of your library
 Home-page: https://github.com/kaviarasan2720/my_library
 Author: Kavi
@@ -22,4 +18,12 @@ A brief description of what your library does and why it's useful.
 You can install MyLibrary using pip:
 
 ```bash
-pip install mylibrary
+pip install kaviproject==0.3
+```
+## Usage
+```python
+import mylibrary from leanth
+def print_hi():
+    a=[2,4,34,54,64]
+    print(leanth(a))
+```

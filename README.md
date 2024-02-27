@@ -7,7 +7,7 @@ A brief description of what your library does and why it's useful.
 You can install MyLibrary using pip:
 
 ```bash
-pip install kaviproject==0.3
+pip install kaviproject==0.4
 ```
 ## Usage
 ```python
