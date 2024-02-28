@@ -11,8 +11,8 @@ pip install kaviproject==0.4
 ```
 ## Usage
 ```python
-import mylibrary from leanth
+import mylibrary.subpackage.submodule1 from length
 def print_hi():
     a=[2,4,34,54,64]
-    print(leanth(a))
+    print(length(a))
 ```

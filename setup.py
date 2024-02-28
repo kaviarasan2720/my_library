@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name='kaviproject',
-    version='0.4',
+    version='0.6',
     packages=find_packages(),
     author='Kavi',
     author_email='arasansk54@gmail.com',
